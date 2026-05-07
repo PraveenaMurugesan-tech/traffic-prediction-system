@@ -1,0 +1,12 @@
+{
+  "name": "TRAFFIC.AI - Smart City Traffic Prediction",
+  "description": "Futuristic AI-powered traffic prediction dashboard with real-time analytics, machine learning forecasts, and smart route optimization.",
+  "requestFramePermissions": [
+    "geolocation"
+  ],
+  "majorCapabilities": [
+    "AI Traffic Analysis",
+    "Real-time Monitoring",
+    "Predictive Modeling"
+  ]
+}
