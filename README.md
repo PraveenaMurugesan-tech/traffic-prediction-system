@@ -59,7 +59,7 @@ The system analyzes factors such as traffic volume, time, day, weather condition
 
 # Run and deploy 
 
-This contains everything you need to run your app locally.
+This contains everything you need to run your app .
 
 View your app in AI Studio: https://ai.studio/apps/1d55cf1c-2803-491d-a1c3-a340560cf418
 
