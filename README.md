@@ -15,7 +15,6 @@ The system analyzes factors such as traffic volume, time, day, weather condition
 * Identify factors that influence traffic conditions.
 * Provide reliable traffic predictions using machine learning.
 * Help improve route planning and traffic management.
-* Reduce travel time and congestion through informed decision-making.
 
 ---
 
